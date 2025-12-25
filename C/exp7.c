@@ -2,6 +2,7 @@
 
 int main()
 {
+    // determine smallest number
     int a, b, c, smallest;
     printf("Enter three numbers: ");
     scanf("%d %d %d", &a, &b, &c);

@@ -2,6 +2,7 @@
 
 int main()
 {
+    // average of 3 numbers
     int a, b, c , d;
     printf("Enter first number : ");
     scanf("%d", &a);
