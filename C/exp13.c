@@ -2,6 +2,7 @@
 
 int main()
 {
+    // sum of n numbers, printing them in reverse
     int n, sum=0;
     printf("Enter a number: ");
     scanf("%d", &n);

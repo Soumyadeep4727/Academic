@@ -2,6 +2,7 @@
 
 int main()
 {
+    // table of given number
     int n,multi;
     printf("Enter a number: ");
     scanf("%d", &n);

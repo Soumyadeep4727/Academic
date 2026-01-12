@@ -2,12 +2,13 @@
 
 int main()
 {
+    // take input loop
     int n;
     printf("Enter a number: ");
     scanf("%d", &n);
 
     for (int i=0; i<=n; i++)
     {
-        printf("%d", i);
+        printf("%d\n", i);
     }
 }
