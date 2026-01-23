@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// fibonacci using recursion 
 int fibonacci(int n);
 
 int main(){
